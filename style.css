@@ -166,6 +166,7 @@ body {
   .card-title{
     font-weight:600;
   }
+  /* about the card info */
   .card-info{
     font-size:0.85rem;
     opacity:0.8;
